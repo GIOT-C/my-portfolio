@@ -1,0 +1,16 @@
+.homeParentContainerLightMode,
+.homeParentContainerDarkMode {
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.homeParentContainerLightMode {
+  color: hsl(223, 30%, 9%);
+}
+
+.homeParentContainerDarkMode {
+  color: hsl(0, 2%, 91%);
+}

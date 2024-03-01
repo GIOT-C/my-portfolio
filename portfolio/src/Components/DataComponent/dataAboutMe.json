@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "language": {
+      "eng": {
+        "textOne": "Greetings! I'm Giorgi Otarashvili, a passionate Front-End Web Developer based in Tbilisi, Georgia. With a strong foundation in HTML, CSS, and JavaScript, I specialize in crafting visually appealing and responsive front-end experiences. I've successfully implemented interactive user interfaces for various projects, leveraging frameworks like React to enhance user experiences.",
+        "textTwo": "Beyond coding, I enjoy exploring new technologies and finding creative solutions to challenges. In my free time, you'll find me experimenting with different design patterns and staying up-to-date with the latest industry trends. I set better goals and believe I can gain it.",
+        "textThree": "I'm open to exciting job opportunities where I can contribute, learn, and grow. If you have a project that demands innovation and a keen eye for detail, don't hesitate to reach out. Let's connect and create something exceptional together! Here you can see some of my projects"
+      },
+      "geo": {
+        "textOne": "გამარჯობა, მე ვარ გიორგი ოთარაშვილი, Front-End ვებ დეველოპერი თბილისიდან. ძლიერი საფუძვლებით HTML, CSS და JavaScript-ში. მომხმარებლის გამოცდილების გასაუმჯობესებლად ვიყენებ ჯავასკრიპტის ისეთ ბიბლიოთეკას როგორიცაა React.",
+        "textTwo": "კოდირების გარდა, მე გატაცებული ახალი ტექნოლოგიების შესწავლით და გამოწვევებისთვის კრეატიული გზების პოვნით. თავისუფალ დროს, ექსპერიმენტებს ვატარებ დიზაინის სხვადასხვა ნიმუშებზე და ვცდილობ ფეხი ავუწყო  ინდუსტრიის უახლეს ტენდენციებს, მაგრამ ამით არ ვაპირებ გაჩერებას, მე უფრო დიდი მიზნები დავისახე და მჯერა, რომ ამ მიზნების მიღწევა შემიძლია.",
+        "textThree": "მე მზად ვარ ახალი გამოწვევებისთვის და საინტერესო სამუშაო შესაძლებლობებისთვის, სადაც შემიძლია წვლილი შევიტანო, ვისწავლო და გავიზარდო. თუ ხარ ის, ვისაც აქვს საინტერესო და ინოვაციური პროექტი დამიკავშირდი, სიამოვნებით ვითანამშრომლებ თქვენთან და მჯერა რომ ერთდ წარმატებულ პროდუქტს შევქმნით."
+      }
+    }
+  }
+]

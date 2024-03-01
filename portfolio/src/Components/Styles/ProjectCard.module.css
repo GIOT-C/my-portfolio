@@ -1,0 +1,188 @@
+.projectCardParentContainer {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.projectCard {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+}
+
+.cardDarkMode,
+.cardLightMode {
+  border-radius: 10px;
+  display: flex;
+  padding: 10px;
+}
+
+.cardDarkMode {
+  background-color: #2e3830;
+  color: hsl(0, 2%, 91%);
+}
+
+.cardLightMode {
+  background-color: rgb(201, 183, 150);
+  color: hsl(223, 30%, 9%);
+}
+
+.projectImg {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.projectImg:hover {
+  width: 370px;
+  transition: 1s;
+}
+
+.infoContainer {
+  padding-left: 40px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.toolsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.tool {
+  background-color: #5a189a;
+  height: 30px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.projectButton > a {
+  text-decoration: none;
+}
+
+.projectButton {
+  display: inline-block;
+  width: 140px;
+  height: 40px;
+  border-radius: 15px;
+  border: 1px solid #03045e;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s ease-in;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.projectButton::before,
+.projectButton::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 0;
+  height: 100%;
+  transform: skew(15deg);
+  transition: all 0.5s;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.projectButton::before {
+  left: -10px;
+  background: #240046;
+}
+
+.projectButton::after {
+  right: -10px;
+  background: #5a189a;
+}
+
+.projectButton:hover::before,
+.projectButton:hover::after {
+  width: 58%;
+}
+
+.projectButton:hover span {
+  color: #e0aaff;
+  transition: 0.3s;
+}
+
+.projectButton span {
+  color: #03045e;
+  font-size: 18px;
+  transition: all 0.3s ease-in;
+}
+
+@media only screen and (max-width: 600px) {
+  .cardDarkMode,
+  .cardLightMode {
+    display: block;
+  }
+
+  .projectImg:hover {
+    width: 300px;
+  }
+
+  .infoContainer {
+    padding-left: 0px;
+    width: 300px;
+  }
+
+  .projectName {
+    text-align: center;
+    padding: 20px 0px;
+  }
+
+  .toolsContainer {
+    padding: 20px 0px;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  .cardDarkMode,
+  .cardLightMode {
+    display: block;
+  }
+  .projectImg {
+    width: 420px;
+    height: 250px;
+  }
+  .projectImg:hover {
+    width: 420px;
+  }
+
+  .infoContainer {
+    padding-left: 0px;
+    width: 420px;
+    text-align: center;
+  }
+  .projectName {
+    text-align: center;
+    padding: 20px 0px;
+  }
+
+  .toolsContainer {
+    padding: 20px 0px;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .projectImg:hover {
+    width: 350px;
+  }
+  .infoContainer {
+    width: 380px;
+    padding-left: 20px;
+  }
+}

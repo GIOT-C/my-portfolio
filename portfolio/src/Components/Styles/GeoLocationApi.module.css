@@ -1,0 +1,11 @@
+.locationContainer {
+  display: flex;
+}
+
+.locationHeader {
+  border-bottom: 2px solid gray;
+}
+
+.ipInfo {
+  padding: 20px 0;
+}

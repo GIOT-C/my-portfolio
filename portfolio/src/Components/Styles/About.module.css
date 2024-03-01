@@ -1,0 +1,110 @@
+.aboutParentContainerLightMode,
+.aboutParentContainerDarkMode {
+  padding: 100px 0px;
+}
+
+.aboutParentContainerLightMode {
+  color: hsl(223, 30%, 9%);
+}
+
+.aboutParentContainerDarkMode {
+  color: hsl(0, 2%, 91%);
+}
+
+.aboutChildContainer {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.aboutMe {
+  width: 45%;
+  font-weight: 600;
+}
+
+.aboutHeader {
+  text-align: center;
+}
+
+.textTwo {
+  padding: 20px 0;
+}
+
+.mySkillsMainContainer {
+  width: 45%;
+}
+
+.skillsHeader {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.mySkills {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding-left: 25px;
+}
+
+.skillLightMode,
+.skillDarkMode {
+  height: 30px;
+
+  border-radius: 10px;
+
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+}
+
+.skillLightMode {
+  background-color: hsl(223, 30%, 9%);
+  color: hsl(0, 2%, 91%);
+}
+
+.skillDarkMode {
+  background-color: hsl(0, 2%, 91%);
+  color: hsl(223, 30%, 9%);
+}
+
+@media only screen and (max-width: 768px) {
+  .aboutChildContainer {
+    display: block;
+  }
+
+  .aboutMe {
+    width: 100%;
+    padding: 0px 20px;
+  }
+
+  .mySkillsMainContainer {
+    width: 100%;
+    padding: 40px 20px;
+  }
+
+  .mySkills {
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .mySkills {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .aboutMe {
+    padding-top: 35px;
+  }
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1115px) {
+  .aboutMe {
+    width: 55%;
+    font-weight: 600;
+  }
+
+  .mySkillsMainContainer {
+    width: 40%;
+  }
+}

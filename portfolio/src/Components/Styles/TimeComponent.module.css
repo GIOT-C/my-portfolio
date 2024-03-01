@@ -1,0 +1,10 @@
+.TimeComponentContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border-bottom: 1px solid gray;
+}
+
+.greeting {
+  font-size: small;
+}

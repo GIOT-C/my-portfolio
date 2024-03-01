@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "name": "Quiz-App",
+    "language": {
+      "eng": {
+        "about": "An intelligent quiz game with diverse and interesting features."
+      },
+      "geo": {
+        "about": "ინტელექტუალური ქვიზ თამაში მრავალფეროვანი და საინტერესო ფუნქციებით."
+      }
+    },
+    "toolOne": "React Js",
+    "toolTwo": "Typescript",
+    "toolThree": "CSS",
+    "projectLink": "https://quiz-game-bf3a63.netlify.app/",
+    "repositoryLink": "https://github.com/GIOT-C/Quiz-App",
+    "projectImg": "./src/Images/quizAppImg.webp"
+  },
+
+  {
+    "id": 2,
+    "name": "Password Generator",
+    "language": {
+      "eng": {
+        "about": "Random password generator. Customized with various interesting features."
+      },
+      "geo": {
+        "about": "შემთხვევითი პაროლის გენერატორი. მომხმარებელზე მორგებული სხვადასხვა საინტერესო ფუნქციებით."
+      }
+    },
+    "toolOne": "React Js",
+    "toolTwo": "Typescript",
+    "toolThree": "CSS",
+    "projectLink": "https://password-generator-e4a1c2.netlify.app/",
+    "repositoryLink": "https://github.com/GIOT-C/PasswordGenerator",
+    "projectImg": "./src/Images/passwordGeneratorImg.webp"
+  },
+
+  {
+    "id": 3,
+    "name": "Planets facts site",
+    "language": {
+      "eng": {
+        "about": "An informative site with all the basic information about the planets of the solar system."
+      },
+      "geo": {
+        "about": "საინფორმაციო საიტი, რომელიც შეიცავს ყველა ძირითად ინფორმაციას მზის სისტემის პლანეტების შესახებ."
+      }
+    },
+    "toolOne": "React Js",
+    "toolTwo": "Typescript",
+    "toolThree": "CSS",
+    "projectLink": "https://planets-factsite-c6bf1e.netlify.app/",
+    "repositoryLink": "https://github.com/GIOT-C/Planets-fact-site",
+    "projectImg": "./src/Images/planets-facts-site.webp"
+  },
+
+  {
+    "id": 4,
+    "name": "Entertainment-App",
+    "language": {
+      "eng": {
+        "about": "Prototype site for movies and TV-series, with search, bookmarks and other interesting features."
+      },
+      "geo": {
+        "about": "ფილმებისა და სერიალების საიტის პროტოტიპი, ძიებით, სანიშნეებით და სხვა საინტერესო ფუნქციებით"
+      }
+    },
+    "toolOne": "React Js",
+    "toolTwo": "Typescript",
+    "toolThree": "CSS",
+    "projectLink": "https://entertainment-app-42c215.netlify.app/",
+    "repositoryLink": "https://github.com/GIOT-C/EntertainmentApp",
+    "projectImg": "./src/Images/entertainmentApp.webp"
+  },
+
+  {
+    "id": 5,
+    "name": "Tip-Calculator",
+    "language": {
+      "eng": {
+        "about": "The Tip Calculator calculates tip amount for various percentages of the cost of the service, and also provides a total amount that includes the tip."
+      },
+      "geo": {
+        "about": "კალკულატორი ითვლის თანხას მომსახურების ღირებულების სხვადასხვა პროცენტისთვის და ასევე გამოითვლის მთლიან თანხას."
+      }
+    },
+    "toolOne": "React Js",
+    "toolTwo": "Typescript",
+    "toolThree": "CSS",
+    "projectLink": "https://tip-calculator-047ebc.netlify.app/",
+    "repositoryLink": "https://github.com/GIOT-C/tip-calculator",
+    "projectImg": "./src/Images/tipCalculator.webp"
+  }
+]

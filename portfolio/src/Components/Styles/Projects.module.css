@@ -1,0 +1,16 @@
+.projectsParentContainer {
+  padding: 100px 0px;
+}
+
+.projectsHeaderDarkMode,
+.projectsHeaderLightMode {
+  text-align: center;
+}
+
+.projectsHeaderDarkMode {
+  color: hsl(0, 2%, 91%);
+}
+
+.projectsHeaderLightMode {
+  color: hsl(223, 30%, 9%);
+}

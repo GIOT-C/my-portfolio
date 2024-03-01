@@ -1,0 +1,703 @@
+[
+  {
+    "id": 1,
+    "language": {
+      "eng": {
+        "quote": "A rose by any other name would smell as sweet.",
+        "author": "William Shakespeare"
+      },
+      "geo": {
+        "quote": "უფრო ღირსეული იქნებოდი, ვიდრე ხარ, შენს ღირსებას ასე ხშირად რომ არ ახსენებდე.",
+        "author": "უილიამ შექსპირი"
+      }
+    }
+  },
+
+  {
+    "id": 2,
+    "language": {
+      "eng": {
+        "quote": "All that glitters is not gold.",
+        "author": "William Shakespeare"
+      },
+
+      "geo": {
+        "quote": " ჭეშმარიტ სიყვარულს არ შეუძლია ლაპარაკი, რადგან ჭეშმარიტი სიყვარული მჟღავნდება ქცევით და არა სიტყვით.",
+        "author": "უილიამ შექსპირი"
+      }
+    }
+  },
+
+  {
+    "id": 3,
+    "language": {
+      "eng": {
+        "quote": "Ask not what your country can do for you; ask what you can do for your country.",
+        "author": "John Kennedy"
+      },
+
+      "geo": {
+        "quote": " ერთდროულად იყო ძალიან კარგი და ძალიან მდიდარი, შეუძლებელია",
+        "author": "პლატონი"
+      }
+    }
+  },
+
+  {
+    "id": 4,
+    "language": {
+      "eng": {
+        "quote": "Ask, and it shall be given you; seek, and you shall find.",
+        "author": "the Bible"
+      },
+      "geo": {
+        "quote": "სიხარულიც და მწუხარებაც იმით ჰგვანან ერთმანეთს, რომ ორივე ერთნაირად გვიხშობს გონებას.",
+        "author": "პლატონი"
+      }
+    }
+  },
+
+  {
+    "id": 5,
+    "language": {
+      "eng": {
+        "quote": "All the world’s a stage, and all the men and women merely players.",
+        "author": "William Shakespeare"
+      },
+      "geo": {
+        "quote": "ისტორიიდან მხოლოდ იმის სწავლა შეიძლება, რომ ხალხს ისტორიიდან არაფერი უსწავლია.",
+        "author": "ბერდნარდ შოუ"
+      }
+    }
+  },
+
+  {
+    "id": 6,
+    "language": {
+      "eng": {
+        "quote": "Eighty percent of success is showing up.",
+        "author": "Woody Allen"
+      },
+      "geo": {
+        "quote": "გეშინოდეს იმის, ვინც შენს დარტყმას არ უპასუხა.",
+        "author": "ბერდნარდ შოუ"
+      }
+    }
+  },
+
+  {
+    "id": 7,
+    "language": {
+      "eng": {
+        "quote": "For those to whom much is given, much is required.",
+        "author": "the Bible"
+      },
+      "geo": {
+        "quote": " იცოდე, რა არის სამართლიანი, გრძნობდე, რა არის მშვენიერი, გსურდეს, რაც კარგია - ეს არის გონიერი ცხოვრების მიზანი.",
+        "author": "პლატონი"
+      }
+    }
+  },
+
+  {
+    "id": 8,
+    "language": {
+      "eng": {
+        "quote": "FGenius is one percent inspiration and ninety-nine percent perspiration.",
+        "author": "Thomas Edison"
+      },
+      "geo": {
+        "quote": " არც ერთი კითხვა არ არის იმდენად რთული, რამდენადაც ის, რომელზეც პასუხი აშკარაა.",
+        "author": "ბერდნარდ შოუ"
+      }
+    }
+  },
+
+  {
+    "id": 9,
+    "language": {
+      "eng": {
+        "quote": "He travels the fastest who travels alone.",
+        "author": "Rudyard Kipling"
+      },
+      "geo": {
+        "quote": " ღმერთს ყველაფერი არ შეუქმნია, მან მხოლოდ კარგი შექმნა.",
+        "author": "პლატონი"
+      }
+    }
+  },
+
+  {
+    "id": 10,
+    "language": {
+      "eng": {
+        "quote": "Hell has no fury like a woman scorned.",
+        "author": "William Congreve"
+      },
+      "geo": {
+        "quote": "ვინც იცის, აკეთებს, ვინც არა - სხვას ასწავლის.",
+        "author": "ბერდნარდ შოუ"
+      }
+    }
+  },
+
+  {
+    "id": 11,
+    "language": {
+      "eng": {
+        "quote": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+        "author": "Martin Luther King"
+      },
+      "geo": {
+        "quote": "ცოტა ვინმეს თუ ეყოფა ვაჟკაცობა წინ აღუდგეს მას, ვინც ყველაზე ბევრს იხდის.",
+        "author": "ჯორჯ ვაშინგტონი"
+      }
+    }
+  },
+
+  {
+    "id": 12,
+    "language": {
+      "eng": {
+        "quote": "If at first you don’t succeed, try, try again.",
+        "author": "W. E. Hickson Hickson"
+      },
+      "geo": {
+        "quote": "მანამდე მაინც დავრჩეთ ადამიანებად, სანამ მეცნიერებას არ აღმოუჩენია, რომ რაღაც სხვანი ვართ.",
+        "author": "ვოლტერი"
+      }
+    }
+  },
+
+  {
+    "id": 13,
+    "language": {
+      "eng": {
+        "quote": "If you are going through hell, keep going.",
+        "author": "Winston Churchill"
+      },
+      "geo": {
+        "quote": "რა ლამაზადაც უნდა ილაპარაკოს ადამიანმა, თუ ის ბევრს ლაპარაკობს, ბოლოს მაინც სისულელეს იტყვის.",
+        "author": "ალექსანდრე დიუმა უფროსი"
+      }
+    }
+  },
+
+  {
+    "id": 14,
+    "language": {
+      "eng": {
+        "quote": "If you want something done right, do it yourself.",
+        "author": "Charles-Guillaume Étienne"
+      },
+      "geo": {
+        "quote": "ნურასოდეს დააფასებ ფულს ნურც მეტად, ნურც ნაკლებად, ვიდრე იგი ღირს, რადგან იგი კარგი მსახურია და ცუდი ბატონი.",
+        "author": "ალექსანდრე დიუმა უფროსი"
+      }
+    }
+  },
+
+  {
+    "id": 15,
+    "language": {
+      "eng": {
+        "quote": "If you want something said, ask a man; if you want something done, ask a woman.",
+        "author": "Margaret Thatcher"
+      },
+      "geo": {
+        "quote": "ყველაზე დამღლელია იმ ადამიანთან ურთიერთობა, რომელიც ყოველთვის მართალია.",
+        "author": "აგატა კრისტი"
+      }
+    }
+  },
+
+  {
+    "id": 16,
+    "language": {
+      "eng": {
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "author": "Albert Einstein"
+      },
+      "geo": {
+        "quote": "ლომს და კრავს შეუძლიათ ერთად დაწვნენ, მაგრამ მეეჭვება კრავმა კარგად გამოიძინოს.",
+        "author": "ვუდი ალენი"
+      }
+    }
+  },
+
+  {
+    "id": 17,
+    "language": {
+      "eng": {
+        "quote": "No one can make you feel inferior without your consent.",
+        "author": "Eleanor Roosevelt"
+      },
+      "geo": {
+        "quote": "ყველას მეგობარი არავის მეგობარი არაა",
+        "author": "არისტოტელე"
+      }
+    }
+  },
+
+  {
+    "id": 18,
+    "language": {
+      "eng": {
+        "quote": "Not all those who wander are lost.",
+        "author": "J. R. R. Tolkein"
+      },
+      "geo": {
+        "quote": "ცოცხლობდე-ნიშნავს იბრძოდე, იბრძოდე-ნიშნავს ცოცხლობდე.",
+        "author": "პიერ ბომარშე"
+      }
+    }
+  },
+
+  {
+    "id": 19,
+    "language": {
+      "eng": {
+        "quote": "Nothing is certain except for death and taxes.",
+        "author": "Benjamin Franklin"
+      },
+      "geo": {
+        "quote": "ვინც გრძნობს, მისთვის ცხოვრება ტრაგედიაა, ხოლო ვინც აზროვნებს-კომედიაა.",
+        "author": "ჟან დე ლა ბრუიერი"
+      }
+    }
+  },
+
+  {
+    "id": 20,
+    "language": {
+      "eng": {
+        "quote": "Power corrupts; absolute power corrupts absolutely.",
+        "author": "John Dalberg-Acton"
+      },
+      "geo": {
+        "quote": "ცხოვრება არის ის, რაც შენს ირგვლივ ხდება, მანამ სანამ შენ ცხოვრებას გეგმავ.",
+        "author": "ჯონ ლენონი"
+      }
+    }
+  },
+
+  {
+    "id": 21,
+    "language": {
+      "eng": {
+        "quote": "Speak softly and carry a big stick",
+        "author": "Theodore Roosevelt"
+      },
+      "geo": {
+        "quote": "მსოფლიოში რომ ყველაფერი ცხადი იყოს ჩვენთვის, მაშინ ხელოვნებაც არ იარსებებდა.",
+        "author": "ალბერ კამიუ"
+      }
+    }
+  },
+
+  {
+    "id": 22,
+    "language": {
+      "eng": {
+        "quote": "That’s one small step for a man, a giant leap for mankind.",
+        "author": "Neil Armstrong"
+      },
+      "geo": {
+        "quote": "წყენა ქვიშაზე ჩაწერეთ, მადლიერება კი მარმარილოზე ამოკვეთეთ.",
+        "author": "პიერ ბუასტი"
+      }
+    }
+  },
+
+  {
+    "id": 23,
+    "language": {
+      "eng": {
+        "quote": "The love of money is the root of all evil.",
+        "author": "the Bible"
+      },
+      "geo": {
+        "quote": "ბრძენს ესმის ერთი სიტყვა, მაგრამ იგებს ორს.",
+        "author": "პოლ ვალერი"
+      }
+    }
+  },
+
+  {
+    "id": 24,
+    "language": {
+      "eng": {
+        "quote": "The only thing we have to fear is fear itself.",
+        "author": "tFranklin D. Roosevelt"
+      },
+      "geo": {
+        "quote": "ვინც ბევრს ფიქრობს იმაზე - სიკეთე ვქნაო, დრო აღარ რჩება იმისთვის, რომ კეთილი იყოს.",
+        "author": "თაგორი"
+      }
+    }
+  },
+
+  {
+    "id": 25,
+    "language": {
+      "eng": {
+        "quote": "Three can keep a secret, if two of them are dead.",
+        "author": "Benjamin Franklin"
+      },
+      "geo": {
+        "quote": "სცადე მზის ამოსვლას დაესწრო რადგან არ იცი დაესწრები თუ არა მის ჩასვლას.",
+        "author": "სტენდალი "
+      }
+    }
+  },
+
+  {
+    "id": 26,
+    "language": {
+      "eng": {
+        "quote": "Tis better to have loved and lost than never to have loved at all.",
+        "author": "Alfred Lord Tennyson"
+      },
+      "geo": {
+        "quote": "მოთმინება ისეთი უნარია, რომელიც მაშინ ამოიწურება, როცა ყველაზე მეტად არის საჭირო.",
+        "author": "უილიამსი"
+      }
+    }
+  },
+
+  {
+    "id": 27,
+    "language": {
+      "eng": {
+        "quote": "To err is human; to forgive, divine.",
+        "author": "Alexander Pope"
+      },
+      "geo": {
+        "quote": "როცა ხალხს ამდენი მოღალატე შინა ჰყავს, მაკედონელიც ვერ გაამარჯვებინებს მას.",
+        "author": "კონსტანტინე გამსახურდია"
+      }
+    }
+  },
+
+  {
+    "id": 28,
+    "language": {
+      "eng": {
+        "quote": "Two roads diverged in a wood, and I, I took the one less travelled by, and that has made all the difference.",
+        "author": "Robert Frost"
+      },
+      "geo": {
+        "quote": "ავი კაცი რამდენადაც მეცნიერია, დიდი სწავლული, იმოდენად უფრო ძლიერ საშიშია, უფრო ძლიერ მავნებელია.",
+        "author": "ილია ჭავჭავაძე"
+      }
+    }
+  },
+
+  {
+    "id": 29,
+    "language": {
+      "eng": {
+        "quote": "What doesn't kill us makes us stronger.",
+        "author": "Friedrich Nietzsche"
+      },
+      "geo": {
+        "quote": "არამც თუ უსაბუთო ძაგება, უსაბუთო ქებაც კი საწყენია მართებული კაცისათვის.",
+        "author": "ილია ჭავჭავაძე"
+      }
+    }
+  },
+
+  {
+    "id": 30,
+    "language": {
+      "eng": {
+        "quote": "You can fool all of the people some of the time, and some of the people all of the time, but you can't fool all of the people all of the time.",
+        "author": "Abraham Lincoln"
+      },
+      "geo": {
+        "quote": "ზოგი საგანია, რომ თუ არ დაინახავ, ვერ ირწმუნებ, და ზოგი - იმისთანა, თუ არ ირწმუნებ, ვერ დაინახავ.",
+        "author": "ილია ჭავჭავაძე"
+      }
+    }
+  },
+
+  {
+    "id": 31,
+    "language": {
+      "eng": {
+        "quote": "You must be the change you wish to see in the world.",
+        "author": "Mahatma Gandhi"
+      },
+      "geo": {
+        "quote": "მხოლოდ წარსულის ცოდნით დაუცავს ყოველს ერს თავისი ეროვნება, თავისი არსებობა, თავისი ვინაობა.",
+        "author": "ილია ჭავჭავაძე"
+      }
+    }
+  },
+
+  {
+    "id": 32,
+    "language": {
+      "eng": {
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+      },
+      "geo": {
+        "quote": "ისე იცხოვრეთ, რომ ეძიებდეთ სიკვდილს ქრისტესთვის, რათა წარუვალი დიდება მოიპოვოთ.",
+        "author": "ვახტანგ გორგასალი"
+      }
+    }
+  },
+
+  {
+    "id": 33,
+    "language": {
+      "eng": {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+      },
+      "geo": {
+        "quote": "ქალი ეს ის ვერცხლის თასია, სადაც მამაკაცმა ოქროს ვაშლები უნდა დააწყოს.",
+        "author": "გოეთე"
+      }
+    }
+  },
+
+  {
+    "id": 34,
+    "language": {
+      "eng": {
+        "quote": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.",
+        "author": "Steve Jobs"
+      },
+      "geo": {
+        "quote": "სიყვარულს ისეთი სათვალე უკეთია, რომლითაც სპილენძი ოქროდ გეჩვენება, სიღარიბე - სიმდიდრედ, ხოლო ცეცხლის ნაპერწკლები - მარგალიტებად.",
+        "author": "მიგელ დე სერვანტეს საავედრა "
+      }
+    }
+  },
+
+  {
+    "id": 35,
+    "language": {
+      "eng": {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      "geo": {
+        "quote": "ვინც კარგად ემსახურება სამშობლო ქვეყანას, იგი უდიდგვაროდაც დიდია.",
+        "author": "ილია ჭავჭავაძე"
+      }
+    }
+  },
+
+  {
+    "id": 36,
+    "language": {
+      "eng": {
+        "quote": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+        "author": "Oprah Winfrey"
+      },
+      "geo": {
+        "quote": "და ნათელი იგი ბნელსა შინა ჩანს, და ბნელი იგი მას ვერ ეწია.",
+        "author": "იოანე 1, 5."
+      }
+    }
+  },
+
+  {
+    "id": 37,
+    "language": {
+      "eng": {
+        "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        "author": "James Cameron"
+      },
+      "geo": {
+        "quote": "სიგიჟეს თავისი სიამოვნება სდევს თან, რისი შეგრძნებაც გიჟს ძალუძს მხოლოდ.",
+        "author": "დრაიდენი"
+      }
+    }
+  },
+
+  {
+    "id": 38,
+    "language": {
+      "eng": {
+        "quote": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one. ",
+        "author": "John Lennon"
+      },
+      "geo": {
+        "quote": "ლიდერობა არ არის წოდება ან პოზიცია. ეს არის ერთი ადამიანის ცხოვრების ზეგავლენა მეორეზე",
+        "author": "ჯონ მაქსველი"
+      }
+    }
+  },
+
+  {
+    "id": 39,
+    "language": {
+      "eng": {
+        "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+        "author": "Mother Teresa"
+      },
+      "geo": {
+        "quote": "მაჩვენე შენთვის პატივსაცემი ადამიანი და მივხვდები, როგორი ხარ შენ.",
+        "author": "თომას ჯონ კარლაილი"
+      }
+    }
+  },
+
+  {
+    "id": 40,
+    "language": {
+      "eng": {
+        "quote": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that  ",
+        "author": "Martin Luther King Jr."
+      },
+      "geo": {
+        "quote": "შენი შიშები შენთვის შეინახე, თუმცა სიმამაცე დაანახე სხვებს.",
+        "author": "რობერტ ლუის სტივენსონი"
+      }
+    }
+  },
+
+  {
+    "id": 41,
+    "language": {
+      "eng": {
+        "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+        "author": "Helen Keller"
+      },
+      "geo": {
+        "quote": "აწმყოს, რომელსაც წარსული არ აქვს, არც მომავალი აქვს.",
+        "author": "ილია ჭავჭავაძე"
+      }
+    }
+  },
+
+  {
+    "id": 42,
+    "language": {
+      "eng": {
+        "quote": "It is during our darkest moments that we must focus to see the light.",
+        "author": "Aristotele"
+      },
+      "geo": {
+        "quote": "ხშირია ხოლმე, რომ, როცა სული ჭლექედება, ხორცის დღეობა მაშინ არის; როცა სული ჰყვავის, ხორცი დნება.",
+        "author": "ილია ჭავჭავაძე"
+      }
+    }
+  },
+
+  {
+    "id": 43,
+    "language": {
+      "eng": {
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson"
+      },
+      "geo": {
+        "quote": "თუ ნამდვილად გსურთ რამის გაკეთება, გზასაც იპოვნით, თუ არადა იპოვნით მიზეზს",
+        "author": "ლაო ძი"
+      }
+    }
+  },
+
+  {
+    "id": 44,
+    "language": {
+      "eng": {
+        "quote": "Go confidently in the direction of your dreams! Live the life you've imagined.",
+        "author": "Henry David Thoreau"
+      },
+      "geo": {
+        "quote": "გამარჯვებას ჰყავს ასობით მამა იმ დროს, როცა დამარცხება ობოლია",
+        "author": "ჯონ კენედი"
+      }
+    }
+  },
+
+  {
+    "id": 45,
+    "language": {
+      "eng": {
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln"
+      },
+      "geo": {
+        "quote": "ცხოვრებაში იმას იღებ, რაზე შეკითხვის დასმის გამბედაობაც გეყო",
+        "author": "ნენსი დი სოლომონი"
+      }
+    }
+  },
+
+  {
+    "id": 46,
+    "language": {
+      "eng": {
+        "quote": "In this life we cannot do great things. We can only do small things with great love.",
+        "author": "Mother Teresa"
+      },
+      "geo": {
+        "quote": "შენ რომ ცუდკაცობდე, კაიკაცობაზედ სხვას მაინც ნუ გალანძღავ.",
+        "author": "ილია ჭავჭავაძე"
+      }
+    }
+  },
+
+  {
+    "id": 47,
+    "language": {
+      "eng": {
+        "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up",
+        "author": "Thomas A. Edison"
+      },
+      "geo": {
+        "quote": "ნუ შეუბერავ სულს სხვის სანთელს, ის არ შემატებს ბრწყინვალებას შენსას.",
+        "author": "ააჩინმა ეგუ"
+      }
+    }
+  },
+
+  {
+    "id": 48,
+    "language": {
+      "eng": {
+        "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+        "author": "Dr. Seuss"
+      },
+      "geo": {
+        "quote": "მხოლოდ იმ შეცდომას შეიძლება ეწოდოს ნამდვილი შეცდომა, იმ მარცხს შეიძლება ეწოდოს ნამდვილი მარცხი, რომლისგანაც ვერაფერს ვისწავლით.",
+        "author": "ჰენრი ფორდი"
+      }
+    }
+  },
+
+  {
+    "id": 49,
+    "language": {
+      "eng": {
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost"
+      },
+      "geo": {
+        "quote": "იცხოვრე ისე, თითქოს ხვალ კვდები. ისწავლე ისე, თითქოს საუკუნოდ იცხოვრებ.",
+        "author": "მაჰათმა განდი"
+      }
+    }
+  },
+
+  {
+    "id": 50,
+    "language": {
+      "eng": {
+        "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+        "author": "Albert Camus"
+      },
+      "geo": {
+        "quote": "როცა საუბრობ, იმეორებ იგივეს, რაც იცი, როცა უსმენ, შეიძლება ისეთი რამ გაიგო, რაც არ იცი.",
+        "author": "დალაი ლამა"
+      }
+    }
+  }
+]

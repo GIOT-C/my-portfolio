@@ -1,0 +1,112 @@
+:root {
+  --light-color: hsl(0, 2%, 91%);
+  --dark-color: hsl(223, 30%, 9%);
+}
+
+.contactParentContainerDarkMode,
+.contactParentContainerLightMode {
+  border-top: 2px solid gray;
+  padding-top: 50px;
+}
+
+.contactParentContainerDarkMode {
+  color: var(--light-color);
+}
+
+.contactParentContainerLightMode {
+  color: var(--dark-color);
+}
+
+.contact {
+  display: flex;
+  justify-content: space-around;
+}
+
+.emailHeader,
+.socialNetworksHeader {
+  border-bottom: 2px solid gray;
+}
+
+.email,
+.socialNetworks {
+  padding: 20px 0;
+}
+
+.socialNetworks {
+  display: flex;
+  justify-content: space-between;
+}
+
+.faGithub,
+.faFacebook,
+.faLinkedin,
+.faDiscord {
+  font-size: 30px;
+}
+
+.faGithubDarkMode,
+.faFacebookDarkMode,
+.faLinkedinDarkMode,
+.faDiscordDarkMode {
+  color: var(--light-color);
+}
+
+.faGithubLightMode,
+.faFacebookLightMode,
+.faLinkedinLightMode,
+.faDiscordLightMode {
+  color: var(--dark-color);
+}
+
+.faGithub:hover,
+.faFacebook:hover,
+.faLinkedin:hover,
+.faDiscord:hover {
+  transition: 0.5s;
+}
+
+.faGithub:hover {
+  color: hsl(241, 76%, 66%);
+}
+
+.faFacebook:hover {
+  color: hsl(217, 94%, 50%);
+}
+
+.faLinkedin:hover {
+  color: hsl(210, 90%, 39%);
+}
+
+.faDiscord:hover {
+  color: hsl(235, 78%, 63%);
+}
+
+.copyright {
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.faCopyright {
+  padding-right: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .contactParentContainerDarkMode,
+  .contactParentContainerLightMode {
+    display: flex;
+    justify-content: center;
+  }
+
+  .contact {
+    display: block;
+  }
+
+  .socialNetworksContainer {
+    padding-top: 30px;
+  }
+  .socialNetworks {
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+  }
+}

@@ -1,0 +1,171 @@
+:root {
+  --light-color: hsl(0, 2%, 91%);
+  --dark-color: hsl(223, 30%, 9%);
+}
+
+.bodyLightMode {
+  background-color: var(--light-color);
+}
+
+.bodyDarkMode {
+  background-color: var(--dark-color);
+}
+
+.navDarkMode,
+.navLightMode {
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 3%;
+}
+
+.navDarkMode {
+  background-color: hsl(223, 37%, 25%);
+}
+
+.navLightMode {
+  background-color: rgb(207, 175, 116);
+}
+
+.siteNameDarkMode,
+.siteNameLightMode {
+  text-decoration: none;
+}
+
+.siteNameDarkMode,
+.navigationDarkMode {
+  color: var(--light-color);
+}
+
+.siteNameLightMode,
+.navigationLightMode {
+  color: var(--dark-color);
+}
+
+.letterT {
+  color: springgreen;
+}
+
+.navContainer {
+  display: flex;
+  gap: 50px;
+}
+
+.navigation,
+.selectedNavigation {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.navigation {
+  border-bottom: 3px solid transparent;
+}
+
+.navigation:hover {
+  border-bottom: 3px solid rebeccapurple;
+  transition: 0.5s;
+}
+
+.preferencesContainer {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.flagsContainer,
+.modeContainer {
+  cursor: pointer;
+}
+
+.flag {
+  width: 25px;
+  height: 15px;
+}
+
+.faSun,
+.faMoon {
+  color: gold;
+  font-size: 20px;
+}
+
+.menuBarContainerLightMode,
+.menuBarContainerDarkMode {
+  display: none;
+}
+
+.menuBarContainerLightMode {
+  color: var(--dark-color);
+}
+
+.menuBarContainerDarkMode {
+  color: var(--light-color);
+}
+
+.faBars,
+.faXmark {
+  font-size: 30px;
+}
+
+.widthIsLessthan768 {
+  display: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .menuBarContainerLightMode,
+  .menuBarContainerDarkMode {
+    display: block;
+    cursor: pointer;
+  }
+
+  .mobileAndTabletScreenDarkMode,
+  .mobileAndTabletScreenLightMode {
+    width: 100%;
+    height: 400px;
+    top: 100%;
+    position: absolute;
+  }
+
+  .mobileAndTabletScreenLightMode {
+    background-color: rgb(207, 175, 116);
+  }
+
+  .mobileAndTabletScreenDarkMode {
+    background-color: hsl(223, 37%, 25%);
+  }
+
+  .navContainer {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  .navigation {
+    border-bottom: 1px solid grey;
+  }
+
+  .navigation:hover {
+    border-bottom: 1px solid grey;
+    color: gray;
+    transition: 0.5s;
+  }
+
+  .preferencesContainer {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    align-items: start;
+  }
+
+  .bluredBody {
+    filter: blur(1px);
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .navContainer {
+    display: flex;
+    gap: 40px;
+  }
+}
