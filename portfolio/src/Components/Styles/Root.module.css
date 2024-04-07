@@ -27,26 +27,21 @@
 }
 
 .navLightMode {
-  background-color: rgb(207, 175, 116);
+  background-color: hsl(39, 32%, 69%);
 }
 
-.siteNameDarkMode,
-.siteNameLightMode {
-  text-decoration: none;
-}
-
-.siteNameDarkMode,
 .navigationDarkMode {
   color: var(--light-color);
 }
 
-.siteNameLightMode,
 .navigationLightMode {
   color: var(--dark-color);
 }
 
-.letterT {
-  color: springgreen;
+.logoImage{
+  width: 100px;
+  height: 50px;
+  object-fit:contain;
 }
 
 .navContainer {
