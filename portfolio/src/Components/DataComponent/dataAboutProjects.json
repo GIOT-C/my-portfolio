@@ -1,6 +1,25 @@
 [
   {
     "id": 1,
+    "name": "Audiophile ecommerce website",
+    "language": {
+      "eng": {
+        "about": "this is a multi-functional e-commerce website. On the site you can see various products, add the desired amount to the cart and buy virtually."
+      },
+      "geo": {
+        "about": "ეს არის მრავალფუნქციური ელექტრონული ონლაინ მაღაზია. საიტზე შეგიძლიათ ნახოთ სხვადასხვა პროდუქცია, დაამატოთ სასურველი თანხა კალათაში და შეიძინოთ ვირტუალურად."
+      }
+    },
+    "toolOne": "React Js",
+    "toolTwo": "Typescript",
+    "toolThree": "CSS",
+    "projectLink": "https://audiophile-ecommerce-website-giotdev.netlify.app/",
+    "repositoryLink": "https://github.com/GIOT-C/audiophile-ecommerce-website",
+    "projectImg": "https://www.lucaswinkler.dev/images/project-audiophile-ecommerce.webp"
+  },
+
+  {
+    "id": 2,
     "name": "Quiz-App",
     "language": {
       "eng": {
@@ -19,7 +38,7 @@
   },
 
   {
-    "id": 2,
+    "id": 3,
     "name": "Password Generator",
     "language": {
       "eng": {
@@ -38,7 +57,7 @@
   },
 
   {
-    "id": 3,
+    "id": 4,
     "name": "Planets facts site",
     "language": {
       "eng": {
@@ -57,7 +76,7 @@
   },
 
   {
-    "id": 4,
+    "id": 5,
     "name": "Entertainment-App",
     "language": {
       "eng": {
@@ -76,7 +95,7 @@
   },
 
   {
-    "id": 5,
+    "id": 6,
     "name": "Tip-Calculator",
     "language": {
       "eng": {

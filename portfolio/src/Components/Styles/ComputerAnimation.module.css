@@ -3,7 +3,8 @@
 }
 
 .computerContainer {
-  padding-top: 70px;
+  display: flex;
+  align-items: center;
 }
 
 .computerComponents {

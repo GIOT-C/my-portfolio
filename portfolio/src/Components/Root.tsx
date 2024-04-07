@@ -4,6 +4,7 @@ import { Outlet } from "react-router-dom";
 import { MainContext } from "../App";
 import English_Flag from "../Images/Flag_of_the_United_Kingdom.webp";
 import Georgia_Flag from "../Images/Flag_of_Georgia.webp";
+import logo from "../Images/logo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSun } from "@fortawesome/free-solid-svg-icons";
 import { faMoon } from "@fortawesome/free-solid-svg-icons";
@@ -56,7 +57,7 @@ function Root() {
                     : rootStyles.siteNameLightMode
                 }
               >
-                GIO<span className={rootStyles.letterT}>T</span>DEV
+                <img className={rootStyles.logoImage} src={logo} alt="logo" />
               </a>
             </h1>
           </div>
